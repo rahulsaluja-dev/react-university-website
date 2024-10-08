@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+h1, h2, h3, p, a {
+  font-family: 'Montserrat', sans-serif;
+}
+
+header h1 {
+  font-size: 4rem;
+}
+
+.scale-hover-effect {
+  transition: transform .5s ease;
+}
+
+.scale-hover-effect:hover {
+  transform: scale(1.05);
+}
+
+
+

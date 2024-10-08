@@ -1,0 +1,8 @@
+.footer-social-icons li:hover svg {
+    fill: #212529;
+  }
+  
+  .footer-navigation li:hover {
+    color: #212529;
+  }
+  
